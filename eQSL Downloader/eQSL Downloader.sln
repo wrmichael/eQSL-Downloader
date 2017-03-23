@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eQSL Downloader", "eQSL Downloader\eQSL Downloader.csproj", "{BB090769-594E-4064-A3E1-9FE67D5AE1D2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{338C1C48-8A67-43B8-BE51-61EF76DC4BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB090769-594E-4064-A3E1-9FE67D5AE1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB090769-594E-4064-A3E1-9FE67D5AE1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB090769-594E-4064-A3E1-9FE67D5AE1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB090769-594E-4064-A3E1-9FE67D5AE1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338C1C48-8A67-43B8-BE51-61EF76DC4BBA}.Debug|Any CPU.ActiveCfg = Debug
+		{338C1C48-8A67-43B8-BE51-61EF76DC4BBA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

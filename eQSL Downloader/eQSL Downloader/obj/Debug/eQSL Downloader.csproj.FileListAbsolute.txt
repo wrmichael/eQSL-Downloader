@@ -1,0 +1,11 @@
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\bin\Debug\eQSL Downloader.exe.config
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\bin\Debug\eQSL Downloader.exe
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\bin\Debug\eQSL Downloader.pdb
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\obj\Debug\eQSL_Downloader.Form1.resources
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\obj\Debug\eQSL_Downloader.Form2.resources
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\obj\Debug\eQSL_Downloader.Form3.resources
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\obj\Debug\eQSL_Downloader.Properties.Resources.resources
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\obj\Debug\eQSL Downloader.csproj.GenerateResource.Cache
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\obj\Debug\eQSL Downloader.exe
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\obj\Debug\eQSL Downloader.pdb
+C:\Users\waynem\Dropbox\eQSL-Downloader\eQSL Downloader\eQSL Downloader\obj\Debug\eQSL Downloader.csprojResolveAssemblyReference.cache
