@@ -260,8 +260,17 @@ namespace eQSL_Downloader
 
                     error_idx_fe = 510;
                     //System.Console.WriteLine(h);
-                    h = h.Substring(h.IndexOf("img src="));
-                    error_idx_fe = 710;
+                    try
+                    {
+                        h = h.Substring(h.IndexOf("img src="));
+                    }
+                    catch (Exception imgexp)
+                    {
+                        // missing image ..  skip it
+                        listofbadcards = listofbadcards + callsign + ",";
+                        continue;
+                    }
+                        error_idx_fe = 710;
                     h = h.Substring(h.IndexOf("\"") + 1);
                     error_idx_fe = 720;
                     h = h.Substring(0, h.IndexOf("\""));
